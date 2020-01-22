@@ -1,0 +1,1 @@
+# MSDyn365BC_15_AppTemplate
