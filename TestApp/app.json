@@ -24,6 +24,30 @@
       "version": "15.0.0.0"
     },
     {
+      "appId": "dd0be2ea-f733-4d65-bb34-a28f4624fb14",
+      "publisher": "Microsoft",
+      "name": "Library Assert",
+      "version": "15.0.0.0"
+    },
+    {
+      "appId": "e7320ebb-08b3-4406-b1ec-b4927d3e280b",
+      "publisher": "Microsoft",
+      "name": "Any",
+      "version": "15.0.0.0"
+    },
+    {
+      "appId": "9856ae4f-d1a7-46ef-89bb-6ef056398228",
+      "publisher": "Microsoft",
+      "name": "System Application Test Library",
+      "version": "15.0.0.0"
+    },
+    {
+      "appId": "5d86850b-0d76-4eca-bd7b-951ad998e997",
+      "publisher": "Microsoft",
+       "name": "Tests-TestLibraries",
+       "version": "15.0.0.0"
+    },
+    {
       "appId": "7ce0b65f-bc3e-497b-95bf-c7538ad8a5e8",
       "name": "MainApp",
       "publisher": "Publisher",
